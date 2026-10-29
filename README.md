@@ -148,4 +148,3 @@ La aplicación queda en `http://localhost:3000`. Se usa el puerto 3000 porque es
 ## Notas
 
 - La contraseña en `application.properties` está en texto plano solo por tratarse de un entorno de desarrollo local.
-- El proyecto se desarrolló con apoyo de herramientas de IA siguiendo la guía del laboratorio; los prompts utilizados están documentados en el informe.
